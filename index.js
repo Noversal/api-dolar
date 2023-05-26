@@ -24,5 +24,5 @@ app.get('/api/v1',(req,res) => {
 })
 
 app.listen(PORT, () => {
-    console.log(`http://localhost:${PORT}`)
+    console.log(`Server listening on port ${PORT}`)
 })

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "build": "node ."
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
